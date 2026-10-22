@@ -1,0 +1,5 @@
+# Real inventory output contains serial numbers and MAC addresses: never commit it
+*.csv
+!sample/sample-output.csv
+*.log
+.env*

@@ -1,0 +1,5 @@
+Computer;Status;Manufacturer;Model;SerialNumber;OS;OSVersion;CPU;Cores;RAM_GB;RAM_Modules;RAM_SlotsUsed;Motherboard;BIOSVersion;Disks;GPU;IP;MAC;InventoryDate
+PC01;OK;ExampleCorp;Desktop X100;EXAMPLE-0001;Microsoft Windows 11 Pro;10.0.22631;Example CPU i5;6;16;8GB@3200MHz + 8GB@3200MHz;2;ExampleBoard B660;1.0.4;Example NVMe 512 (477GB);Example Graphics;192.0.2.11;00:00:5E:00:53:01;2026-10-22 09:00
+PC02;OK;ExampleCorp;Laptop L200;EXAMPLE-0002;Microsoft Windows 10 Pro;10.0.19045;Example CPU i7;8;32;16GB@3200MHz + 16GB@3200MHz;2;ExampleBoard L10;2.1.0;Example SSD 1000 (932GB);Example Graphics;192.0.2.12;00:00:5E:00:53:02;2026-10-22 09:00
+SRV-FILE;OK;ExampleCorp;Server S500;EXAMPLE-0003;Microsoft Windows Server 2022 Standard;10.0.20348;Example Xeon;12;64;32GB@2933MHz + 32GB@2933MHz;2;ExampleBoard S50;3.4.1;Example SAS 2000 (1863GB);Example Graphics;192.0.2.20;00:00:5E:00:53:03;2026-10-22 09:00
+PC09;Unreachable;;;;;;;;;;;;;;;;;
